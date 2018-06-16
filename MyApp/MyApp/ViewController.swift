@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     func getListData() {
-        print("log123s123123123")
+        print("log123s123123123 tinh tong")
     }
 
 }
