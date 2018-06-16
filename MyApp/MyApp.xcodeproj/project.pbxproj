@@ -14,6 +14,8 @@
 		480DCF6C20B44B4400533B3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 480DCF6A20B44B4400533B3A /* LaunchScreen.storyboard */; };
 		480DCF7720B44B4500533B3A /* MyAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480DCF7620B44B4500533B3A /* MyAppTests.swift */; };
 		480DCF8220B44B4500533B3A /* MyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480DCF8120B44B4500533B3A /* MyAppUITests.swift */; };
+		4814008220D55041009992A4 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4814008120D55041009992A4 /* ViewController2.swift */; };
+		4814008620D56991009992A4 /* aaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4814008520D56990009992A4 /* aaa.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		480DCF7D20B44B4500533B3A /* MyAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		480DCF8120B44B4500533B3A /* MyAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppUITests.swift; sourceTree = "<group>"; };
 		480DCF8320B44B4500533B3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4814008120D55041009992A4 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		4814008520D56990009992A4 /* aaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				480DCF6820B44B4400533B3A /* Assets.xcassets */,
 				480DCF6A20B44B4400533B3A /* LaunchScreen.storyboard */,
 				480DCF6D20B44B4400533B3A /* Info.plist */,
+				4814008120D55041009992A4 /* ViewController2.swift */,
+				4814008520D56990009992A4 /* aaa.swift */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 			files = (
 				480DCF6420B44B4400533B3A /* ViewController.swift in Sources */,
 				480DCF6220B44B4400533B3A /* AppDelegate.swift in Sources */,
+				4814008220D55041009992A4 /* ViewController2.swift in Sources */,
+				4814008620D56991009992A4 /* aaa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
