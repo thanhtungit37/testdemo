@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
 
     func getListData() {
-        print("log")
+        print("log123s")
     }
 
 }
