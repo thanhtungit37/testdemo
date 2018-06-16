@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     @IBAction func getListData(sender: UIButton) {
         
         self.showBioMetric(in: self.navigationController!) { (success) in
-            print("BBBB")
+            print("BBB1B")
         }
         
        
