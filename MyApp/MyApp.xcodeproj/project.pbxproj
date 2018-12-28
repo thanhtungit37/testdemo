@@ -16,6 +16,7 @@
 		480DCF8220B44B4500533B3A /* MyAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480DCF8120B44B4500533B3A /* MyAppUITests.swift */; };
 		4814008220D55041009992A4 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4814008120D55041009992A4 /* ViewController2.swift */; };
 		4814008620D56991009992A4 /* aaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4814008520D56990009992A4 /* aaa.swift */; };
+		482832EF21D688C100F94875 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 482832EE21D688C100F94875 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		480DCF8320B44B4500533B3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4814008120D55041009992A4 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		4814008520D56990009992A4 /* aaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaa.swift; sourceTree = "<group>"; };
+		482832ED21D6887D00F94875 /* Humaxvina_iOS Engineer.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Humaxvina_iOS Engineer.xlsx"; sourceTree = "<group>"; };
+		482832EE21D688C100F94875 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				480DCF6120B44B4400533B3A /* AppDelegate.swift */,
+				482832ED21D6887D00F94875 /* Humaxvina_iOS Engineer.xlsx */,
 				480DCF6320B44B4400533B3A /* ViewController.swift */,
 				480DCF6520B44B4400533B3A /* Main.storyboard */,
 				480DCF6820B44B4400533B3A /* Assets.xcassets */,
@@ -109,6 +113,7 @@
 				480DCF6D20B44B4400533B3A /* Info.plist */,
 				4814008120D55041009992A4 /* ViewController2.swift */,
 				4814008520D56990009992A4 /* aaa.swift */,
+				482832EE21D688C100F94875 /* CollectionViewCell.swift */,
 			);
 			path = MyApp;
 			sourceTree = "<group>";
@@ -265,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				482832EF21D688C100F94875 /* CollectionViewCell.swift in Sources */,
 				480DCF6420B44B4400533B3A /* ViewController.swift in Sources */,
 				480DCF6220B44B4400533B3A /* AppDelegate.swift in Sources */,
 				4814008220D55041009992A4 /* ViewController2.swift in Sources */,
